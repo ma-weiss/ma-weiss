@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋  I am Manuel - a PhD researcher @ BHT Berlin and @ Leibniz University Hannover.<br>
+
 
 <!--
 **ma-weiss/ma-weiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
